@@ -6,7 +6,6 @@ import { AuthProvider } from "./context/AuthContext.jsx";
 import { CartProvider } from "./context/CartContext.jsx";
 import { ProductsProvider } from "./context/ProductsContext.jsx";
 import "./styles/globals.css";
-
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <BrowserRouter>
