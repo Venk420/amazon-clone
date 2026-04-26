@@ -1,1 +1,30 @@
-
+[
+  {
+    "id": 1,
+    "name": "Apple iPhone 15",
+    "price": 999,
+    "image": "https://via.placeholder.com/300x300?text=iPhone+15",
+    "description": "Latest Apple iPhone with A17 chip and advanced camera system."
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24",
+    "price": 899,
+    "image": "https://via.placeholder.com/300x300?text=Galaxy+S24",
+    "description": "Samsung flagship with AMOLED display and AI-powered features."
+  },
+  {
+    "id": 3,
+    "name": "Sony WH-1000XM5 Headphones",
+    "price": 349,
+    "image": "https://via.placeholder.com/300x300?text=Sony+XM5",
+    "description": "Industry-leading noise cancellation wireless headphones."
+  },
+  {
+    "id": 4,
+    "name": "Apple MacBook Air M3",
+    "price": 1299,
+    "image": "https://via.placeholder.com/300x300?text=MacBook+Air+M3",
+    "description": "Ultra-light laptop with Apple M3 chip and long battery life."
+  }
+]
