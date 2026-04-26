@@ -1,4 +1,4 @@
-import { useAuth } from "../context/AuthContext.jsx";
+import { useAuth } from "../context2/AuthContext.jsx";
 
 export default function ProfilePage() {
   const { user } = useAuth();
