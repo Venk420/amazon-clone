@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { useProducts } from "../context2/ProductsContext.jsx";
+import { useProducts } from "../context2/productsContext.jsx";
 
 export default function AdminProductsPage() {
   const { products } = useProducts();
