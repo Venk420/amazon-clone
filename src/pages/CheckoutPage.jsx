@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { useCart } from "../context/CartContext.jsx";
+import { useCart } from "../context2/CartContext.jsx";
 
 export default function CheckoutPage() {
   const { cart } = useCart();
