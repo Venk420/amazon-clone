@@ -1,5 +1,5 @@
 import { useParams } from "react-router-dom";
-import { useProducts } from "../context2/ProductsContext.jsx";
+import { useProducts } from "../context2/productsContext.jsx";
 
 export default function AdminEditProductPage() {
   const { id } = useParams();
