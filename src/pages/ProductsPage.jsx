@@ -1,4 +1,4 @@
-import { useProducts } from "../context/ProductsContext.jsx";
+import { useProducts } from "../context2/ProductsContext.jsx";
 import ProductCard from "../components/ProductCard.jsx";
 
 export default function ProductsPage() {
