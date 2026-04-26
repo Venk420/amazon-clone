@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
-import { useCart } from "../context/CartContext.jsx";
-import { useAuth } from "../context/AuthContext.jsx";
+import { useCart } from "../context2/CartContext.jsx";
+import { useAuth } from "../context2/AuthContext.jsx";
 
 export default function Header() {
   const { cartCount } = useCart();
